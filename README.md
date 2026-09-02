@@ -1,6 +1,12 @@
 # Temperature Monitoring System
-# ระบบวัดอุณหภูมิผ่านระบบเครือข่าย
-[ThesisCertificate-T11-2567-G2.pdf](./files/Anchisa-Resume.pdf)
+## ระบบวัดอุณหภูมิผ่านระบบเครือข่าย
 
-<img src="https://raw.githubusercontent.com/AnchisaPhetnoi/Temperature_Monitoring_Syste/main/images/Screenshot 2026-09-02 184132.png">
-<img src="https://raw.githubusercontent.com/AnchisaPhetnoi/Temperature_Monitoring_Syste/main/images/Screenshot 2026-09-02 185236.png">
+[เปิดดูเอกสาร Certificate](ThesisCertificate-T11-2567-G2.pdf)
+
+[เปิดดูรายงานโครงงาน](ระบบวัดอุณหภูมิผ่านระบบเครือข่าย.pdf)
+
+## รูปภาพระบบ
+
+![ภาพระบบวัดอุณหภูมิ 1](<Screenshot 2026-09-02 184132.png>)
+
+![ภาพระบบวัดอุณหภูมิ 2](<Screenshot 2026-09-02 185236.png>)
