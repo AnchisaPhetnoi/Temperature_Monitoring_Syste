@@ -1,5 +1,8 @@
 # Temperature Monitoring System
 ## ระบบวัดอุณหภูมิผ่านระบบเครือข่าย
+## โครงงานปริญญานิพนธ์ระดับปริญญาตรี
+
+**English Title:** Network-Enabled Temperature Monitoring System
 
 [เปิดดูเอกสาร Certificate](ThesisCertificate-T11-2567-G2.pdf)
 
